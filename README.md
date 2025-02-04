@@ -29,11 +29,17 @@ Guilherme L. A. Ortega
 LINK_GIT = https://github.com/GuilhermeOrtega/GuilhermeOrtega.
 
 
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeOrtega&show_icons=true&theme=transparent)](https://github.com/guilhermeortega/github-readme-stats)
+
+## Habilidades e Competências
+
+- **Linguagens:** Python, SQL
+- **Ferramentas:** Power BI, Excel Avançado
+- **Áreas de Atuação:** Análise e Visualização de Dados, Modelagem de Dados, Big Data
+
 
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
 
-
+- [LinkedIn](https://www.linkedin.com/in/guilhermeliberato-andrade-ortega/)
+- [GitHub](https://github.com/GuilhermeOrtega)
 
